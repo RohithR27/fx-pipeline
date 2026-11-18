@@ -59,7 +59,7 @@ print(conn.execute(
     GROUP BY currency
     HAVING COUNT(*) > 1
     """).fetchall())
-
+#new commment
 # # Why do we insert only the clean rows, not the raw ones?
 # clean rows will have the correct column_name and data, whereas if we insert raw ones might have null and incorrect datatype error.
 # # What does commit() do?
