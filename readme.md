@@ -12,4 +12,4 @@ A small ETL pipeline in Python and SQL that cleans foreign exchange rate data.
 python pipeline.py
 
 ## What I learned
-(write 2-3 sentences in your own words)
+Learned about the SQL and python basics and did one basic ETL flow and psuhed the code though git cmds
